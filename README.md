@@ -6,7 +6,7 @@
   - [Web Application Pentest]()
   - [Wazuh SIEM Setup]()
   - [Sunset Pentest]()
-  - [Configuring Windows Firewall]()
+  - [Windows Firewall Configuration]()
   - [Containing a Attack]()
   - [Bypassing an Antivirus Application]()
   - [Set Up A Modern Honey Network]()
