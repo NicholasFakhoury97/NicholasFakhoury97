@@ -4,20 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/NicholasFakhoury97/LABURL)
   - [Web Application Pentest]()
-  - [Wazuh SIEM Setup]()
-  - [Sunset Pentest]()
-  - [Windows Firewall Configuration]()
-  - [Containing a Attack]()
-  - [Bypassing an Antivirus Application]()
-  - [Set Up A Modern Honey Network]()
-  - [Splunk Deployment]()
-  - [Configuring DNS]()
-  - [Layer 3 Mitigation]()
-  - [Audit Policies]()
-  - [Traffic Investigation]()
-  - [Remote PowerShell Commands]()
-  - [Restricted Groups & Logon Script GPO Configuration]()
-  - [PowerShell for Active Directory]()
+    
 
 <h2> 📃Certifications</h2>
 
