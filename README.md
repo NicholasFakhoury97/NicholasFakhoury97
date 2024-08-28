@@ -9,7 +9,7 @@
 <h2> 📃Certifications</h2>
 
 - [NYU Cybersecuirty Porgram](https://mail.google.com/mail/u/0?ui=2&ik=689e65e8cc&attid=0.1&permmsgid=msg-f:1790899266820425730&th=18da8d650356c802&view=att&disp=inline&realattid=f_lsm464qy0)
-- [CompTIA Security +](https://www.certmetrics.com/comptia/candidate/cert_summary.aspx)
+- [CompTIA Security +](https://mail.google.com/mail/u/0?ui=2&ik=689e65e8cc&attid=0.1&permmsgid=msg-a:r-4721785256799467549&th=191991a1b536a34b&view=att&disp=inline&realattid=f_m0dvgib00)
 
 
 <h2> 🤳 Connect with me:</h2>
