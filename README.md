@@ -4,6 +4,9 @@
 
   - [Active Directory Home Lab](https://github.com/NicholasFakhoury97/LABURL)
   - [Web Application Pentest]()
+  - [Configuring Wazuh Agent with Active Response]()
+  - [Data Exfiltration Analysis Lab]()
+  - [Metasploitable Exploitation and Privilege Escalation Lab]()
     
 
 <h2> 📃Certifications</h2>
