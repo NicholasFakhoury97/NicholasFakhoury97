@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick!
+<h1>Hi, I'm Nicholas! This GitHub account is dedicated to the documentation of my technical projects. These repositories contain write-ups that showcase my practical work.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
